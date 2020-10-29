@@ -2,7 +2,7 @@
 
 x <- 5+8
 y <- 4
-t <- 2+1
+t <- 2
 
 #testing pull feature
 library(reprex)
